@@ -1,0 +1,8 @@
+header{
+	margin-bottom: 20px;
+  }
+
+.navbarNavDropdown, .container-fluid{
+	display: inline-block;
+	justify-content: flex-start;
+}
